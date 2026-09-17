@@ -1,0 +1,17 @@
+# Local runtime/configuration
+.env
+.env.*
+!.env.example
+
+# Hermes local state
+.hermes/
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+.tmp/
+tmp/
